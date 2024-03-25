@@ -17,9 +17,13 @@ public class PlayerMovement : MonoBehaviour
         playerbody = GetComponent<Rigidbody2D>();
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         LeftRightMovement();
+    }
+
+    private void Update()
+    {
         Jumping();
     }
 
