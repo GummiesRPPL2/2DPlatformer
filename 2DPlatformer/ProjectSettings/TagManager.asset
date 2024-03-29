@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Button
   - Rock
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
