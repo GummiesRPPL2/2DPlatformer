@@ -1,2 +1,7 @@
 # 2DPlatformer
-A 2D platformer I made for my portfolio. It has a main menu, pause menu, and a level with variopus obstacles and enemies.
+A 2D platformer I made for my portfolio.
+
+## Features
+- A single level with various obstacles and enemies.
+- A functional health and coin UI.
+- A main menu and a pause menu.
